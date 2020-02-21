@@ -33,3 +33,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://dev.azure.com/afbs64/pipelines-javascript/_apis/build/status/tstng.pipelines-javascript?branchName=master)](https://dev.azure.com/afbs64/pipelines-javascript/_build/latest?definitionId=1&branchName=master)
